@@ -1,4 +1,4 @@
-# lab1, Library Catalog
+# Lab 1, Library Catalog
 Due date: September 14, 11:59pm
 
 For this project you will implement a "library catalog". You need to fill in code in four classes (in /src/catalog): 
@@ -20,7 +20,7 @@ Your code will read a list of books from the given file and add them to the libr
 The program would allow users to interact with the catalog by using keyboard input. 
 Users should be able to check out books from the library, return books to the library and print the list of available books. 
 
-##Submission
+#Submission
 The code must be in your private github repo created by Github Classroom for this assignment. 
 The code must compile, run as expected and pass provided Junit tests. Please note that class Userinterface needs to be tested manually since it relies on keyboard input.
 Also, the provided tests are basic and passing them does not guarantee that your program is correct, you are responsible for additional testing.
