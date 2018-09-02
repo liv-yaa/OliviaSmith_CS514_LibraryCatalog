@@ -1,6 +1,8 @@
 # Lab 1, Library Catalog
 Due date: September 14, 11:59pm
 
+Please start by clicking on this link: https://classroom.github.com/a/fwUigZ94
+
 For this project you will implement a "library catalog". You need to fill in code in four classes (in /src/catalog): 
 - Book (represents a book in the library catalog that can be checked out and returned back to the library)
 - LibraryCatalog (contains an ArrayList of books, and methods to operate on it)
@@ -29,4 +31,4 @@ Also, the provided tests are basic and passing them does not guarantee that your
 Important: You are required to have at least 8 meaningful commits before the deadline to get any credit for this assignment. 
 Please commit and push your changes frequently as you finish reasonable chunks of work.
 
-The instructor will post the document with sample runs, so that you   
+Your code should follow style guidelines posted on Canvas!
