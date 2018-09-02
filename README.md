@@ -8,8 +8,9 @@ For this project you will implement a "library catalog". You need to fill in cod
 
 Documentation for project is available in the doc folder of the project (Start by opening index.html in your browser).
 
-You are required to use the provided starter code. Do not modify method signatures, otherwise you will not be able to pass the tests.
-No need to modify the Driver class. The input files books5.csv and books85.csv are in the "input" subfolder. This is real data (slightly modified for the assignment),
+You are required to use the provided starter code (please note that class Driver has been already written for you). 
+Do not modify method signatures, otherwise you will not be able to pass the tests.
+You may not modify the provided tests. The input files books5.csv and books85.csv are in the "input" subfolder. This is real data (slightly modified for the assignment),
 obtained from the following link:
 https://www.kaggle.com/zygmunt/goodbooks-10k#books.csv and contain information about a set of popular books and their average ratings from goodreads. 
 
