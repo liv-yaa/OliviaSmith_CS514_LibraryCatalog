@@ -3,9 +3,10 @@ Due date: September 14, 11:59pm
 
 For this project you will implement a "library catalog". You need to fill in code in four classes (in /src/catalog): 
 - Book (represents a book in the library catalog that can be checked out and returned back to the library)
-- LibraryCatalog
-- UserInterface 
-Documentation for project is available in doc folder of the project (open index.html in your browser).
+- LibraryCatalog (contains an ArrayList of books, and methods to operate on it)
+- UserInterface  (allows a user to interact with the library catalog)
+
+Documentation for project is available in the doc folder of the project (Start by opening index.html in your browser).
 
 You are required to use the provided starter code. Do not modify method signatures, otherwise you will not be able to pass the tests.
 No need to modify the Driver class. The input files books5.csv and books85.csv are in the "input" subfolder. This is real data (slightly modified for the assignment),
